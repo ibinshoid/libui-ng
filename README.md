@@ -134,6 +134,7 @@ Rust | [libui-ng-sys](https://github.com/norepimorphism/libui-ng-sys), [boing](h
 Scala | [scalaui](https://github.com/lolgab/scalaui)
 Swift | [libui-swift](https://github.com/sclukey/libui-swift)
 V | [v-uing](https://github.com/trufae/v-uing)
+Vala | [libui](https://codeberg.org/ibinshoid/libui.vapi)
 Zig | [zig-libui-ng](https://github.com/desttinghim/zig-libui-ng)
 
 ## Frequently Asked Questions
